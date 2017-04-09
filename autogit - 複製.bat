@@ -1,5 +1,3 @@
-
-
 E:
 cd E:\word\
 git add -A
